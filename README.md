@@ -6,3 +6,8 @@ First, we fine-tuned a GPT-2 small Spanish model with a relatively small dataset
 
 After that, we used a separated notebook to generate the lullabies. This way, and with the help of Colaboratory, the model can be used as a 'blackbox' by people who are not used to read/manipulate code.
 - [Lullaby Lyrics Generation](https://colab.research.google.com/drive/1hhUn6yE_FYYczgtrDNRM-dRLGAI2BCem?usp=sharing)
+
+## Help 
+If any help is required contact to:
+- flgavilanez@gmail.com
+- gonznm@gmail.com
